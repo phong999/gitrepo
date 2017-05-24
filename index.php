@@ -1,6 +1,6 @@
 <?php
 
-$name = 'phongsak';
+$name = 'phongsak prochiang';
 
 echo 'name='.$name;
 
