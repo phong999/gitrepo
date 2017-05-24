@@ -1,8 +1,12 @@
 <?php
 
-$name = 'phongsak prochiang';
+
+
+$name = Commit 3';
+
 
 echo 'name='.$name;
+
 
 
 
